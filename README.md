@@ -1,1 +1,1 @@
-## Kodluyoruz HTML eğitimi kapsamındaki ödevim
+## Kodluyoruz HTML eğitimi kapsamındaki ödevlerim
