@@ -1,1 +1,1 @@
-## Kodluyoruz HTML eğitimi kapsamındaki ödevlerim
+## Kodluyoruz Frontend eğitimi kapsamındaki ödevlerim
