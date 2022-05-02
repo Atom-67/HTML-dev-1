@@ -1,0 +1,49 @@
+h1 {
+    color: tomato;
+    width: 27%;
+    margin: 5px auto;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+h3 {
+    color: orange;
+}
+
+ul.icerik {
+    width: 3em;
+    width: 50%;
+    margin-left: 15%;
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+div.content{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 30%;
+    height: 1.25em;
+}
+
+ul.navbar li {
+    float: left;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    margin-right: 20px;
+}
